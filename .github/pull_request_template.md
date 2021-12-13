@@ -10,6 +10,6 @@ If these changes close one or more open issues, [please tag them as described he
 - List any relevant details for your test configuration.
 
 ## Checklist
-- [ ] I have labeled this PR with the relevant [Type labels](https://github.com/nuveo/.github/labels?q=Type%3A)
+- [ ] I have labeled this PR with the relevant [Type labels](https://github.com/getupio-undistro/.github/labels?q=Type%3A)
 - [ ] I have documented my code (if applicable)
 - [ ] My changes are covered by tests
