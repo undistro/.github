@@ -6,9 +6,9 @@ Our projects help users to implement best practices for configuration and securi
 
 Explore our projects to learn more about:
 
-[Zora](https://github.com/undistro/zora)
-[CEL Playground](https://github.com/undistro/cel-playground)
-[Marvin](https://github.com/undistro/marvin)
+- [Zora](https://github.com/undistro/zora)
+- [CEL Playground](https://github.com/undistro/cel-playground)
+- [Marvin](https://github.com/undistro/marvin)
 
 **Contribution guidelines** - Your contribution is essential, whether it's submitting a new feature, reporting a bug, 
 sending a PR, suggesting documentation, or even participating in our [Office Hours](https://tinyurl.com/undistro-community-calendar).
